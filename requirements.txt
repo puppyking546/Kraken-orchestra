@@ -1,0 +1,10 @@
+numpy
+scipy
+mido
+# mp3 edition only:
+librosa
+soundfile
+torch
+demucs
+# optional, better harmony transcription:
+# basic-pitch
